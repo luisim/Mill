@@ -1,0 +1,635 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Es aquella en la que se asegura que las variables son independientes (No existe relación entre ellas)",
+		            "content" : [
+		                "Parámetros estadísticos.",
+		                "NULA (H0)",
+		                "ALTERNATIVA (H1).",
+		                "Hawaii"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Variables",
+				        "NULA (H0).",
+				        "ALTERNATIVA (H1)",
+				        "Todos"
+				    ],
+				    "question": "Es aquella en la que se asegura que las variables son dependientes (Existe relación entre ellas)"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "registran y analizan la asociación entre dos o más variables",
+				        "Incrementan poder",
+				        "Las que salen en Harry Potter",
+				        "Evitan que Thanos haga el chasquido"
+				    ],
+				    "question": "Qué es una tabla de contingencia?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "F0.",
+				        "Fe",
+				        "Au",
+				        "So"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor esperado?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Fe.",
+				        "Na",
+				        "Todos",
+				        "F0"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor observado?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se define como la probabilidad de tomar la decisión de rechazar la hipótesis nula cuando ésta es verdadera",
+				        "No poseen propiedades cuantitativas y sirven únicamente para identificar las clases.",
+				        "Refleja distancias equivalentes entre los objetos y en la propia escala.",
+				        "es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo."
+				    ],
+				    "question": "Qué es el Nivel de Significancia?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pi*r*2",
+				        "n-1",
+				        "p = 1 – nivel de significancia",
+				        "x 1, x 2,..., x + N."
+				    ],
+				    "question": "Formula del Valor del Parámetro p"
+				},
+
+				{
+				    "correct": 3,
+				    "content": [
+				        "La decisión de rechazar la hipótesis nula cuando ésta es verdadera.",
+				        "Sirven únicamente para identificar las clases.",
+				        "Es el cociente del número de veces que se presenta un valor o característica.",
+				        "Valor numérico que resume todos los datos de una población completa"
+				    ],
+				    "question": "Qué es el Valor del Parámetro p?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Es aquella en la que se asegura que las variables son independientes (No existe relación entre ellas)",
+		            "content" : [
+		                "Parámetros estadísticos.",
+		                "NULA (H0)",
+		                "ALTERNATIVA (H1).",
+		                "Hawaii"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Variables",
+				        "NULA (H0).",
+				        "ALTERNATIVA (H1)",
+				        "Todos"
+				    ],
+				    "question": "Es aquella en la que se asegura que las variables son dependientes (Existe relación entre ellas)"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "registran y analizan la asociación entre dos o más variables",
+				        "Incrementan poder",
+				        "Las que salen en Harry Potter",
+				        "Evitan que Thanos haga el chasquido"
+				    ],
+				    "question": "Qué es una tabla de contingencia?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "F0.",
+				        "Fe",
+				        "Au",
+				        "So"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor esperado?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Fe.",
+				        "Na",
+				        "Todos",
+				        "F0"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor observado?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se define como la probabilidad de tomar la decisión de rechazar la hipótesis nula cuando ésta es verdadera",
+				        "No poseen propiedades cuantitativas y sirven únicamente para identificar las clases.",
+				        "Refleja distancias equivalentes entre los objetos y en la propia escala.",
+				        "es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo."
+				    ],
+				    "question": "Qué es el Nivel de Significancia?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pi*r*2",
+				        "n-1",
+				        "p = 1 – nivel de significancia",
+				        "x 1, x 2,..., x + N."
+				    ],
+				    "question": "Formula del Valor del Parámetro p"
+				},
+
+				{
+				    "correct": 3,
+				    "content": [
+				        "La decisión de rechazar la hipótesis nula cuando ésta es verdadera.",
+				        "Sirven únicamente para identificar las clases.",
+				        "Es el cociente del número de veces que se presenta un valor o característica.",
+				        "Valor numérico que resume todos los datos de una población completa"
+				    ],
+				    "question": "Qué es el Valor del Parámetro p?"
+				}
+		    ]
+		},
+		{
+			
+		    "questions" : [
+				
+		        
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+				},
+				{
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+				},
+				{
+		            "question" : "Es aquella en la que se asegura que las variables son independientes (No existe relación entre ellas)",
+		            "content" : [
+		                "Parámetros estadísticos.",
+		                "NULA (H0)",
+		                "ALTERNATIVA (H1).",
+		                "Hawaii"
+		            ],
+		            "correct" : 1
+		        },
+				{
+				    "correct": 3,
+				    "content": [
+				        "La decisión de rechazar la hipótesis nula cuando ésta es verdadera.",
+				        "Sirven únicamente para identificar las clases.",
+				        "Es el cociente del número de veces que se presenta un valor o característica.",
+				        "Valor numérico que resume todos los datos de una población completa"
+				    ],
+				    "question": "Qué es el Valor del Parámetro p?"
+				},
+				
+				{
+				    "correct": 0,
+				    "content": [
+				        "registran y analizan la asociación entre dos o más variables",
+				        "Incrementan poder",
+				        "Las que salen en Harry Potter",
+				        "Evitan que Thanos haga el chasquido"
+				    ],
+				    "question": "Qué es una tabla de contingencia?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "F0.",
+				        "Fe",
+				        "Au",
+				        "So"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor esperado?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Fe.",
+				        "Na",
+				        "Todos",
+				        "F0"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor observado?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Variables",
+				        "NULA (H0).",
+				        "ALTERNATIVA (H1)",
+				        "Todos"
+				    ],
+				    "question": "Es aquella en la que se asegura que las variables son dependientes (Existe relación entre ellas)"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pi*r*2",
+				        "n-1",
+				        "p = 1 – nivel de significancia",
+				        "x 1, x 2,..., x + N."
+				    ],
+				    "question": "Formula del Valor del Parámetro p"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se define como la probabilidad de tomar la decisión de rechazar la hipótesis nula cuando ésta es verdadera",
+				        "No poseen propiedades cuantitativas y sirven únicamente para identificar las clases.",
+				        "Refleja distancias equivalentes entre los objetos y en la propia escala.",
+				        "es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo."
+				    ],
+				    "question": "Qué es el Nivel de Significancia?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+				{
+				    "correct": 2,
+				    "content": [
+				        "Variables",
+				        "NULA (H0).",
+				        "ALTERNATIVA (H1)",
+				        "Todos"
+				    ],
+				    "question": "Es aquella en la que se asegura que las variables son dependientes (Existe relación entre ellas)"
+				},
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Es aquella en la que se asegura que las variables son independientes (No existe relación entre ellas)",
+		            "content" : [
+		                "Parámetros estadísticos.",
+		                "NULA (H0)",
+		                "ALTERNATIVA (H1).",
+		                "Hawaii"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+		        },
+				 
+				{
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+		        },
+				{
+				    "correct": 0,
+				    "content": [
+				        "registran y analizan la asociación entre dos o más variables",
+				        "Incrementan poder",
+				        "Las que salen en Harry Potter",
+				        "Evitan que Thanos haga el chasquido"
+				    ],
+				    "question": "Qué es una tabla de contingencia?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "F0.",
+				        "Fe",
+				        "Au",
+				        "So"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor esperado?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Fe.",
+				        "Na",
+				        "Todos",
+				        "F0"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor observado?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se define como la probabilidad de tomar la decisión de rechazar la hipótesis nula cuando ésta es verdadera",
+				        "No poseen propiedades cuantitativas y sirven únicamente para identificar las clases.",
+				        "Refleja distancias equivalentes entre los objetos y en la propia escala.",
+				        "es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo."
+				    ],
+				    "question": "Qué es el Nivel de Significancia?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pi*r*2",
+				        "n-1",
+				        "p = 1 – nivel de significancia",
+				        "x 1, x 2,..., x + N."
+				    ],
+				    "question": "Formula del Valor del Parámetro p"
+				},
+
+				{
+				    "correct": 3,
+				    "content": [
+				        "La decisión de rechazar la hipótesis nula cuando ésta es verdadera.",
+				        "Sirven únicamente para identificar las clases.",
+				        "Es el cociente del número de veces que se presenta un valor o característica.",
+				        "Valor numérico que resume todos los datos de una población completa"
+				    ],
+				    "question": "Qué es el Valor del Parámetro p?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+				{
+				    "correct": 0,
+				    "content": [
+				        "registran y analizan la asociación entre dos o más variables",
+				        "Incrementan poder",
+				        "Las que salen en Harry Potter",
+				        "Evitan que Thanos haga el chasquido"
+				    ],
+				    "question": "Qué es una tabla de contingencia?"
+				},
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Es aquella en la que se asegura que las variables son independientes (No existe relación entre ellas)",
+		            "content" : [
+		                "Parámetros estadísticos.",
+		                "NULA (H0)",
+		                "ALTERNATIVA (H1).",
+		                "Hawaii"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Variables",
+				        "NULA (H0).",
+				        "ALTERNATIVA (H1)",
+				        "Todos"
+				    ],
+				    "question": "Es aquella en la que se asegura que las variables son dependientes (Existe relación entre ellas)"
+				},
+				
+				{
+				    "correct": 1,
+				    "content": [
+				        "F0.",
+				        "Fe",
+				        "Au",
+				        "So"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor esperado?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Fe.",
+				        "Na",
+				        "Todos",
+				        "F0"
+				    ],
+				    "question": "Cómo se representa la Frecuencia de valor observado?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Se define como la probabilidad de tomar la decisión de rechazar la hipótesis nula cuando ésta es verdadera",
+				        "No poseen propiedades cuantitativas y sirven únicamente para identificar las clases.",
+				        "Refleja distancias equivalentes entre los objetos y en la propia escala.",
+				        "es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo."
+				    ],
+				    "question": "Qué es el Nivel de Significancia?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pi*r*2",
+				        "n-1",
+				        "p = 1 – nivel de significancia",
+				        "x 1, x 2,..., x + N."
+				    ],
+				    "question": "Formula del Valor del Parámetro p"
+				},
+				{
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+		        },
+
+				{
+				    "correct": 3,
+				    "content": [
+				        "La decisión de rechazar la hipótesis nula cuando ésta es verdadera.",
+				        "Sirven únicamente para identificar las clases.",
+				        "Es el cociente del número de veces que se presenta un valor o característica.",
+				        "Valor numérico que resume todos los datos de una población completa"
+				    ],
+				    "question": "Qué es el Valor del Parámetro p?"
+				}
+		    ]
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Qué es Chi-Cuadrado 𝒙²?",
+		            "content" : [
+		                "Es cada una de las características o cualidades que poseen los individuos de una población.",
+		                "Son una sucesión de medidas que permiten organizar datos en orden jerárquico.",
+		                "Según pasa de una escala a otra el atributo o la cualidad aumenta.",
+		                "Es el nombre de una prueba de hipótesis que determina si dos variables están relacionadas o no"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Cómo se representa Chi-Cuadrado?",
+		            "content" : [
+		                "𝒙²",
+		                "a²",
+		                "y²",
+		                "z²"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Cúal de estos define a Chi-Cuadrado?",
+		            "content" : [
+		                "Es una distribución asimétrica ya que únicamente toma valores superiores a 0",
+		                "Es la relación entre dos fenómenos independientes, el rango es de cero a infinito positivo.",
+		                "Es la rapidez de cambio de un fenómeno, se obtiene mediante el cociente del número de veces que ocurre la situación.",
+		                "Razón, Proporción, Tasa y Frecuencia."
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which state in the United States is largest by area?",
+		            "content" : [
+		                "Alaska",
+		                "California",
+		                "Texas",
+		                "Hawaii"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Es uno de los pasos de Chi-Cuadrado?",
+		            "content" : [
+		                "Calcular el valor de 𝒙²",
+		                "Identificar el cambio de un fenómeno.",
+		                "Identificar una Escalas de Medición.",
+		                "Calcular 2+2"
+		            ],
+		            "correct" : 0
+		        }
+		    ]
+		}
+	]
+}
